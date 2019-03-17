@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EventDelegate.qml</file>
+        <file>EventModel.qml</file>
+        <file>EventDialog.qml</file>
+    </qresource>
+</RCC>
